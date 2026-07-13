@@ -22,8 +22,7 @@ This bot is currently DONE with development and its functionality is PERFECT. It
 - [x] Buy CO2 quotas at low price
 - [x] Launch A-checks for all planes below 250 hours
 - [x] Auto Repair all planes lower than 20%
-- [x] Buying new planes and setting up new routes (when you click on the route it will show long haul short haul or better options
-- [x] better hub suggestions (console log)
+- [x] best hub purchase suggestions (highlighted for both country and airport)
 - [x] financial metrics overlay that shows net income/minute avg fuel/co2 spending (activates as soon as script starts and updates every 10 minutes)
 
 ## Disclaimer
