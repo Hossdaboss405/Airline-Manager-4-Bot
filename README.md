@@ -6,9 +6,10 @@ Please note that this bot is against the Terms of Service of the game and its us
 
 ## Installation
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension on your preferred browser.
-2. Click on the "Raw" button on the script file to open the script file.
-3. Tampermonkey should detect the script and prompt you to install it. Click "Install" to complete the process.
-4. OR run google chrome console Dev(F12) and paste the script in snippets(under source), right click save and right click again and press run
+	How to Install the Script- You can manually install the code in one of two ways
+	Option 1: Copy and Paste (Easiest)Click the Raw button in the GitHub repository.Press Ctrl + A to select all the text, then Ctrl + C to copy it. Click the Tampermonkey icon in your browser extension bar. Select Create a new script....Delete the default template, paste your copied script, and click File > Save.
+	Option 2: Import from URLCopy the full web URL of the Raw script page (e.g., https://raw.githubusercontent.com/...).Click the Tampermonkey icon and select Dashboard.Go to the Utilities tab at the top right.Scroll down to the Import from URL section, paste the URL, and click Install
+	Option 3 it can also run on google chrome dev console. you will need to go on your phone turn on airplane mode launch your airline manager 4 app and when it gives you the network error with your link post that in your desktop chrome browser open dev console(F12) create a new snippit, and copy and paste the script provided, then click CTRL + S to save the script and then right click on the script and press run.. then it will run exactly as needed and you can activate whatever toggles you please, if you want to see the logs of what its doing simple click console and it will show you the log of all actions performed
 Console Log will of course be under console tab
 
 ## Usage
