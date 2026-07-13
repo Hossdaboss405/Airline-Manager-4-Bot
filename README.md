@@ -13,7 +13,7 @@ Console Log will of course be under console tab
 
 ## Usage
 This bot is currently DONE with development and its functionality is PERFECT. It can currently automate the following tasks:
-- [x] Toggles for all auto functions]
+- [x] Toggles for all auto functions
 - [x] Departing all planes
 - [x] Better autoprice when setting up new routes wotks for cargo and pax
 - [x] Auto-start Marketing campaign (doesnt do charter but i can add that ASAP)
