@@ -16,7 +16,7 @@ This bot is currently DONE with development and its functionality is PERFECT. It
 - [x] Toggles for all auto functions
 - [x] Departing all planes
 - [x] Better autoprice when setting up new routes wotks for cargo and pax
-- [x] Auto-start Marketing campaign (doesnt do charter but i can add that ASAP)
+- [x] Auto-start Marketing campaign
 - [x] Buy fuel at low price
 - [x] Buy CO2 quotas at low price
 - [x] Launch A-checks for all planes below 250 hours
