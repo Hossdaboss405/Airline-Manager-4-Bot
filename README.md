@@ -8,7 +8,7 @@ Please note that this bot is against the Terms of Service of the game and its us
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension on your preferred browser.
 2. Click on the "Raw" button on the script file to open the script file.
 3. Tampermonkey should detect the script and prompt you to install it. Click "Install" to complete the process.
-OR run google chrome console Dev(F12) and paste the script in snippets(under sourcee), right click save and right click again and press run
+4. OR run google chrome console Dev(F12) and paste the script in snippets(under source), right click save and right click again and press run
 Console Log will of course be under console tab
 
 ## Usage
