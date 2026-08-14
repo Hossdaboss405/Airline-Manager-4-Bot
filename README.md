@@ -12,6 +12,8 @@ Please note that this bot is against the Terms of Service of the game and its us
 	Option 3 it can also run on google chrome dev console. you will need to go on your phone turn on airplane mode launch your airline manager 4 app and when it gives you the network error with your link post that in your desktop chrome browser open dev console(F12) create a new snippit, and copy and paste the script provided, then click CTRL + S to save the script and then right click on the script and press run.. then it will run exactly as needed and you can activate whatever toggles you please, if you want to see the logs of what its doing simple click console and it will show you the log of all actions performed
 Console Log will of course be under console tab
 
+FOR TAMPERMONKEY TO WORK PROPER YOU MUST CLICK THE 3 DOTS BESIDE THE EXTENSION CLICK MANAGE EXTENSIONS AND ENABLE ALLOW USER SCRIPTS THEN PUT THE SCRIPT IN TAMPERMONKEY AND REFRESH YOUR AIRLINE MANAGER 4 PAGE AND IT SHOULD LOAD
+
 ## Usage
 This bot is currently DONE with development and its functionality is PERFECT. It can currently automate the following tasks:
 - [x] Toggles for all auto functions
