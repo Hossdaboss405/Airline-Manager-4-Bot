@@ -4,16 +4,6 @@ It is intended to automate certain tasks in the game and make gameplay easier an
 
 Please note that this bot is against the Terms of Service of the game and its use may result in your account being banned. Use at your own risk.
 
-## Installation
-1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension on your preferred browser.
-	How to Install the Script- You can manually install the code in one of two ways
-	Option 1: Copy and Paste (Easiest)Click the Raw button in the GitHub repository.Press Ctrl + A to select all the text, then Ctrl + C to copy it. Click the Tampermonkey icon in your browser extension bar. Select Create a new script....Delete the default template, paste your copied script, and click File > Save.
-	Option 2: Import from URLCopy the full web URL of the Raw script page (https://raw.githubusercontent.com/Hossdaboss405/Airline-Manager-4-autobot-Master-Suite/refs/heads/main/AM4%20PERFECT%20MASTER%20SUITE%20FOR%20TAMPERMONKEY.js) .Click the Tampermonkey icon and select Dashboard.Go to the Utilities tab at the top right.Scroll down to the Import from URL section, paste the URL, and click Install
-	Option 3 it can also run on google chrome dev console. you will need to go on your phone turn on airplane mode launch your airline manager 4 app and when it gives you the network error with your link post that in your desktop chrome browser open dev console(F12) create a new snippit, and copy and paste the script provided, then click CTRL + S to save the script and then right click on the script and press run.. then it will run exactly as needed and you can activate whatever toggles you please, if you want to see the logs of what its doing simple click console and it will show you the log of all actions performed
-Console Log will of course be under console tab
-
-FOR TAMPERMONKEY TO WORK PROPER YOU MUST CLICK THE 3 DOTS BESIDE THE EXTENSION CLICK MANAGE EXTENSIONS AND ENABLE ALLOW USER SCRIPTS THEN PUT THE SCRIPT IN TAMPERMONKEY AND REFRESH YOUR AIRLINE MANAGER 4 PAGE AND IT SHOULD LOAD
-
 ## Usage
 This bot is currently DONE with development and its functionality is PERFECT. It can currently automate the following tasks:
 - [x] Toggles for all auto functions
@@ -27,7 +17,23 @@ This bot is currently DONE with development and its functionality is PERFECT. It
 - [x] Auto Repair all planes lower than 20%
 - [x] best hub purchase suggestions (highlighted for both country and airport)
 - [x] financial metrics overlay that shows net income/minute avg fuel/co2 spending (activates as soon as script starts and updates every 10 minutes)
-- [x] financial metrics now also show the alliance contribution/day as well as integrated method to calculate the alliance contribution per flight "C/F" 
+- [x] financial metrics now also show the alliance contribution/day as well as integrated method to calculate the alliance contribution per flight "C/F"
+- [x] route explorer to find best routes for all hubs and auto-builds those routes for you
+- [x] rebuild routes to your liking
+- [x] status tab to show what's happening and when the next features will run
+
+## Installation
+1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension on your preferred browser.
+	How to Install the Script- You can manually install the code in one of two ways
+	Option 1: Copy and Paste (Easiest)Click the Raw button in the GitHub repository.Press Ctrl + A to select all the text, then Ctrl + C to copy it. Click the Tampermonkey icon in your browser extension bar. Select Create a new script....Delete the default template, paste your copied script, and click File > Save.
+	Option 2: Import from URLCopy the full web URL of the Raw script page (https://raw.githubusercontent.com/Hossdaboss405/Airline-Manager-4-autobot-Master-Suite/refs/heads/main/AM4%20PERFECT%20MASTER%20SUITE%20FOR%20TAMPERMONKEY.js). Click the Tampermonkey icon and select Dashboard.Go to the Utilities tab at the top right.Scroll down to the Import from URL section, paste the URL, and click Install
+	Option 3 it can also run on google chrome dev console. you will need to go on your phone turn on airplane mode launch your airline manager 4 app and when it gives you the network error with your link post that in your desktop chrome browser open dev console(F12) create a new snippit, and copy and paste the script provided, then click CTRL + S to save the script and then right click on the script and press run.. then it will run exactly as needed and you can activate whatever toggles you please, if you want to see the logs of what its doing simple click console and it will show you the log of all actions performed
+
+FOR TAMPERMONKEY TO WORK PROPER YOU MUST CLICK THE 3 DOTS BESIDE THE EXTENSION CLICK MANAGE EXTENSIONS AND ENABLE ALLOW USER SCRIPTS THEN PUT THE SCRIPT IN TAMPERMONKEY AND REFRESH YOUR AIRLINE MANAGER 4 PAGE AND IT SHOULD LOAD
+
+## Notes
+ive had it running for months with no bans or anything..
+ive been working on it for months and finally got it perfect.
 
 ## Disclaimer
 The use of this bot is against the Terms of Service of Airline Manager 4. 
